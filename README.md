@@ -1,5 +1,5 @@
 # ThickClient
-This code writed Hungarian language. The program for need a SQL Server run. I wrote TSQL script for every querries in database.
+This code has written Hungarian language. The program for need a SQL Server run. I wrote TSQL script for every querries in database.
 
 ## Adatbázis => Database
 This folder included the database file.
