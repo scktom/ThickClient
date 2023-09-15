@@ -1,5 +1,5 @@
 # ThickClient
-This code has written Hungarian language. The program for need a SQL Server run. I wrote TSQL script for every querries in database.
+This code has written Hungarian language. The program needs a SQL Server to run. I wrote TSQL script for every querries in database.
 
 ## Adatbázis => Database
 This folder included the database file.
@@ -8,13 +8,13 @@ This folder included the database file.
 ![image](https://github.com/scktom/ThickClient/assets/23421135/6e019313-6945-41b4-b79d-6c7c969462cb)
 
 ## App.config
-This is file setting the database connection. Will set the database conncection information in connectionString.
+This file is setting the database connection. Will set the database conncection information in connectionString.
 
 ## Beadando/Adatbazis/Manager
-This is files managing the database connection and Select, Add, Update, Delete functions for the table records.
+This files is managing the database connection and Select, Add, Update, Delete functions for the table records.
 
 ## Beadando/Adatbazis/Rekordok
-This is files represented all class for every once table in database. The HashCode file is return the input string data convert to SHA1 coding.
+This files is represented all class for every once table in database. The HashCode file is return the input string data convert to SHA1 coding.
 
 ## Beadando
 * All form is the desinged GUI. 
